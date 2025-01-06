@@ -2,6 +2,7 @@
 
 Welcome to Supersonics Audio!<br><br>
 Here you will find Supersonics's Plugins ready to be downloaded for try as well as open source code examples of some of the plugins presented.
+There are also links for [sound samples](https://www.youtube.com/@SupersonicsAudio) .
 <br>
 <p align="center">
  <img src="images/superreverbposter.png" width="800">
