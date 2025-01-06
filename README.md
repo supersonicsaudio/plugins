@@ -18,7 +18,6 @@ There are also links for [sound samples](https://www.youtube.com/@SupersonicsAud
 * [TripleHead VintagePitchShifter](#tripleHead-VintagePitchShifter)
 
 Tested in macOS intel (Sonoma 14.5), macOS m1 (Sonoma 14.5) and Intel Windows10 PC using Reaper as DAW.
-<br>
 #### Installation
 * Download and extract the plugin into your plugin's folder
 
