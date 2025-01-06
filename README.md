@@ -18,7 +18,6 @@ Here you will find Supersonics's Plugins ready to be downloaded for try as well 
 Note: Tested in macOS intel (Sonoma 14.5), macOS m1 (Sonoma 14.5) and Intel Windows10 PC using Reaper as DAW.
 <br>
 #### Installation
-<br>
 * Download and extract the plugin into your plugin's folder
 
 On Windows the VST3 folder is located in
@@ -64,7 +63,7 @@ Source code [here](code/Supersonics-TripleHead-PitchShifter).
 
 
 
-#### Hope you have fun and some outwordly sounds!
+### Hope you have fun and some outwordly sounds!
  
 ## Help
 
