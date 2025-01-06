@@ -7,7 +7,6 @@ Here you will find Supersonics's Plugins ready to be downloaded for try as well 
 <p align="center">
  <img src="images/superreverbposter.png" width="800">
 </p>
-<br>
 <p align="center">
  <img src="images/pluginsposter.png" width="500">
 </p> 
