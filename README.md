@@ -1,6 +1,6 @@
 # Supersonics Audio Plugins
 
-Welcome to Supersonics Audio!<br>
+Welcome to Supersonics Audio!<br><br>
 Here you will find Supersonics's Plugins ready to be downloaded for try as well as open source code examples of some of the plugins presented.
 <br>
 <br>
@@ -8,15 +8,13 @@ Here you will find Supersonics's Plugins ready to be downloaded for try as well 
 <br>
 <br>
 ![screenshot](images/pluginsposter.png)
-<br>
-<br>
+
 ## Plugins
-<br>
-- [Supersonics SuperReverb](#supersonics-superreverb)
+* [Supersonics SuperReverb](#supersonics-superreverb)
 * [WSOLAPitchShifter](#wsola-pitchshifter)
 * [DynamicsShaper](#dynamicsshaper/gate)
 * [TripleHead VintagePitchShifter](#tripleHead-VintagePitchShifter)
-<br>
+
 Note: Tested in macOS intel (Sonoma 14.5), macOS m1 (Sonoma 14.5) and Intel Windows10 PC using Reaper as DAW.
 <br>
 #### Installation
@@ -59,7 +57,7 @@ Pitch shifter effect that makes use of the overlap-add scheme using three delay 
 
 Some cancellations does exist during the cross-fades. This makes the sound throbbing or tremolo-like so formants are not preserved.
 It is also an interesting effect when abused.
-Source code [here](code/Supersonics TripleHead PitchShifter).
+Source code [here](code/Supersonics-TripleHead-PitchShifter).
 
 [Hear it in action](https://youtu.be/suXz9YRy8k0).<br>
 [![](https://img.youtube.com/vi/suXz9YRy8k0/0.jpg)](https://youtu.be/suXz9YRy8k0) 
