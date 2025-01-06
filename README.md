@@ -8,6 +8,7 @@ Here you will find Supersonics's Plugins ready to be downloaded for try as well 
 <br>
 <br>
 ![screenshot](images/pluginsposter.png)
+<img src="images/pluginsposter.png" width="200">
 
 ## Plugins
 * [Supersonics SuperReverb](#supersonics-superreverb)
