@@ -1,9 +1,13 @@
 # Supersonics Audio
 
-Welcome to Supersonics Audio.
+Welcome to Supersonics Audio!
 Here you will find Supersonics's Plugins ready to be downloaded for try as well as open source code examples of some of the plugins presented.
 
+
+
 ![screenshot](images/superreverbposter.png)
+
+
 ![screenshot](images/pluginsposter.png)
 
 
