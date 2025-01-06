@@ -4,10 +4,10 @@ Welcome to Supersonics Audio!<br><br>
 Here you will find Supersonics's Plugins ready to be downloaded for try as well as open source code examples of some of the plugins presented.
 <br>
 <br>
-![screenshot](images/superreverbposter.png width="200" height="200")
+![screenshot](images/superreverbposter.png)
 <br>
 <br>
-![screenshot](images/pluginsposter.png width="200" height="200")
+![screenshot](images/pluginsposter.png)
 
 ## Plugins
 * [Supersonics SuperReverb](#supersonics-superreverb)
