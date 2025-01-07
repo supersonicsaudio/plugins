@@ -1,7 +1,7 @@
 # Supersonics Audio Plugins
 
 Welcome to Supersonics Audio!<br><br>
-Here you will find Supersonics's Plugins ready to be downloaded for try as well as open source code examples of some of the plugins presented.
+Here you will find [code examples](code) of Supersonics Audio Plugins as well as [binaries ready to be downloaded]() for try them out.
 There are also links for [sound samples](https://www.youtube.com/@SupersonicsAudio) .
 <br>
 <p align="center">
