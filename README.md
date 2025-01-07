@@ -37,7 +37,7 @@ On MAC the AU folder is located in
 A plate-style reverb with shimmer control.
 
 [Hear it in action](https://youtu.be/517ETR3p5vo).<br>
-[![](https://img.youtube.com/vi/517ETR3p5vo/sddefault.jpg)](https://youtu.be/Sa9wa28vdQM) 
+[![](https://img.youtube.com/vi/517ETR3p5vo/sddefault.jpg)](https://youtu.be/517ETR3p5vo) 
 ## WSOLA PitchShifter
 A WSOLA-type pitch shifter. Preserves much of the orignal formants. Most efficient with monophonic signals like voice (speech) or single string instrument. 
 Sounds good with polyphonics signals too.
