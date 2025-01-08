@@ -18,20 +18,6 @@ There are also links for [sound samples](https://www.youtube.com/@SupersonicsAud
 * [TripleHead VintagePitchShifter](#tripleHead-VintagePitchShifter)
 
 Tested in macOS intel (Sonoma 14.5), macOS m1 (Sonoma 14.5) and Intel Windows10 PC using Reaper as DAW.
-#### Installation
-* Download and extract the plugin into your plugin's folder
-
-On Windows the VST3 folder is located in
-```
-C:\Program Files (x86)\Common Files\VST3
-```
-On MAC the AU folder is located in
-```
-/Library/Audio/Plug-Ins/Components 
-```
-
-* Keep in mind you may need to rescan the plugins folder in your DAW to detect the newly copied plugin in your plugins folder. 
-* In some instances like Logic Pro, you may need to completely quit Logic Pro and restart it again in order for the software to update its plugins list.
 
 ## Supersonics SuperReverb
 A plate-style reverb with shimmer control.
@@ -64,8 +50,6 @@ Source code [here](code/Supersonics-TripleHead-PitchShifter).
 
 
 
-### Hope you have fun and some outwordly sounds!
- 
 ## Help
 
 Should you have any further question or doubt dont heasitate to get in touch. We/I am actively available at 
