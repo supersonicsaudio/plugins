@@ -1,8 +1,9 @@
 # Supersonics Audio Plugins
 
-Welcome to Supersonics Audio!<br><br>
+Welcome to Supersonics Audio<br><br>
 Here you will find [code examples](code) of Supersonics Audio Plugins.
-There are also links for [sound samples](https://www.youtube.com/@SupersonicsAudio) .
+There are also links for [sound samples](https://www.youtube.com/@SupersonicsAudio) .<br>
+TODO: Binaries for download
 <br>
 <p align="center">
  <img src="images/superreverbposter.png" width="800">
@@ -50,11 +51,8 @@ Source code [here](code/Supersonics-TripleHead-PitchShifter).
 
 
 
-## Help
+## Contact
 
-Should you have any further question or doubt dont heasitate to get in touch. We/I am actively available at 
 ```
 supersonics@supersonicsaudio.com
 ```
-Keep the air moving!<br>
-Supersonics Audio
