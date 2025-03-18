@@ -48,11 +48,3 @@ Source code [here](code/Supersonics-TripleHead-PitchShifter).
 
 [Hear it in action](https://youtu.be/suXz9YRy8k0).<br>
 [![](https://img.youtube.com/vi/suXz9YRy8k0/0.jpg)](https://youtu.be/suXz9YRy8k0) 
-
-
-
-## Contact
-
-```
-supersonics@supersonicsaudio.com
-```
